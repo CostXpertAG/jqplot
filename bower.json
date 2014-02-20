@@ -1,0 +1,33 @@
+{
+  "name": "jqplot",
+  "version": "1.0.8-r1250",
+  "homepage": "http://www.jqplot.com/",
+  "description": "Pure JavaScript plotting plugin for jQuery",
+  "main": "jquery.jqplot.js",
+  "keywords": [
+    "jqplot",
+    "jquery",
+    "plot"
+  ],
+  "authors": [
+	"Chris Leonello <chris@jqplot.com>"
+  ],
+  "license": [
+    "MIT",
+    "GPL"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "docs",
+    "examples",
+    "jquery.js",
+    "jquery.min.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  }
+}
